@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
 export const Message = styled.p`
-  color: gray;
+  color: #632626;
   font-size: 24px;
 `;
